@@ -1,4 +1,7 @@
 # Ex.08 Design of Interactive Image Gallery
+## Name : ESHWER M
+## Reg No : 212224040086
+## Date : 15.05.2025
 
 ## AIM
   To design a web application for an inteactive image gallery with minimum five images.
